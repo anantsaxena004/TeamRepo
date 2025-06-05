@@ -1,1 +1,5 @@
-ECHO is on.
+
+
+System.out.println("KIngCobra is Activated");
+
+
